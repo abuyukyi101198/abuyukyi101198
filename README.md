@@ -9,6 +9,9 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
 - 💡 Interested in: `philosophy`, `football`, `billiards`, `space` 
 
 ### Tech Stack
+<div style="display: flex; gap: 36px; margin-top: -16px">
+<div style="display: flex; flex-direction: column">
+
 #### Programming
 <div style="display: flex; gap: 8px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="16" alt="c logo"  />
@@ -22,6 +25,9 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16" alt="java logo"  />
 </div>
+</div>
+
+<div style="display: flex; flex-direction: column">
 
 #### Frameworks
 <div style="display: flex; gap: 8px">
@@ -31,6 +37,9 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="16" alt="sass logo"  />
 </div>
+</div>
+
+<div style="display: flex; flex-direction: column">
 
 #### Tools
 <div style="display: flex; gap: 8px">
@@ -43,4 +52,6 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="16" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" alt="blender logo"  />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="16" alt="unity logo"  />
+</div>
+</div>
 </div>

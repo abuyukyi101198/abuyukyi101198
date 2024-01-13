@@ -1,6 +1,5 @@
 ### Hello there 👋, I am Ahmet Can Büyükyılmaz
-#### Software Developer @ HAVELSAN <br>
-#### `/ˈah.met d͡ʒan by.jyˈkjɯl.maz/`
+`/ˈah.met d͡ʒan by.jyˈkjɯl.maz/`
 
 I am a Software Developer and Purdue University graduate, tackling whatever gets thrown my way.
 

@@ -3,8 +3,8 @@
 
 I am a Software Developer and Purdue University graduate, tackling whatever gets thrown my way.
 
-- ⚡ Currently using: `.cs`, `.js`, `.html`, `.css`, `.blend`
-- ⚙️ Working on: `a Unity project`
+- ⚡ Currently using: `.js`, `.html`, `.css`, `.py`
+- ⚙️ Working on: `a fullstack web app`
 - 🔭 Checking out: `game development`, `ui/ux`, `digital design`, `physics sims`
 - 💡 Interested in: `philosophy`, `football`, `billiards`, `space` 
 
@@ -33,10 +33,20 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
 <div style="display: flex; gap: 8px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16" alt="vuejs logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="16" alt="spring logo"  />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="16" alt="electron logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="16" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="16" alt="django logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="16" alt="sass logo"  />
 </div>
+</div>
+
+<div style="display: flex; flex-direction: column">
+
+#### Databases
+<div style="display: flex; gap: 8px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="16" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="16" alt="mongodb logo"  />
 </div>
 
 <div style="display: flex; flex-direction: column">

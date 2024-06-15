@@ -64,6 +64,7 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="16" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" alt="blender logo"  />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="16" alt="unity logo"  />
+  <img src="https://prepar3d.com/wp-content/uploads/2023/03/P3D_Logo_v6.png" height="16" alt="prepar3d logo"  />
 </div>
 </div>
 </div>

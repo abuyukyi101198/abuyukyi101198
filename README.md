@@ -3,9 +3,9 @@
 
 I am a Software Developer and Purdue University graduate, tackling whatever gets thrown my way.
 
-- ⚡ Currently using: `.js`, `.html`, `.css`, `.py`
+- ⚡ Currently using: `.js`, `.html`, `.css`, `.py`, `.dart`
 - ⚙️ Working on: `a fullstack web app`
-- 🔭 Checking out: `game development`, `ui/ux`, `digital design`, `physics sims`
+- 🔭 Checking out: `game development`, `app development`, `physics sims`
 - 💡 Interested in: `philosophy`, `football`, `billiards`, `space` 
 
 ### Tech Stack
@@ -24,6 +24,7 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="16" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="16" alt="dart logo"  />
 </div>
 </div>
 
@@ -33,6 +34,7 @@ I am a Software Developer and Purdue University graduate, tackling whatever gets
 <div style="display: flex; gap: 8px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="16" alt="react logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16" alt="vuejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="16" alt="flutter logo"  />
   <img src="https://cdn.simpleicons.org/electron/47848F" height="16" alt="electron logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="16" alt="spring logo"  />

@@ -1,7 +1,7 @@
 ### Hello there 👋, I am Ahmet Can Büyükyılmaz
 `/ˈah.met d͡ʒan by.jyˈkjɯl.maz/`
 
-I am a Software Developer and Purdue University graduate, tackling whatever gets thrown my way.
+I am a Software Developer at Canonical and a Purdue University graduate, tackling whatever gets thrown my way.
 
 - ⚡ Currently using: `.js`, `.html`, `.css`, `.py`, `.dart`
 - ⚙️ Working on: `a fullstack web app`

@@ -60,7 +60,6 @@ I am a Software Developer at Canonical and a Purdue University graduate, tacklin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bitbucket/bitbucket-original.svg" height="16" alt="bitbucket logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="16" alt="git logo"  />
   <img src="https://cdn.simpleicons.org/latex/008080" height="16" alt="latex logo"  />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="16" alt="photoshop logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="16" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" alt="blender logo"  />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="16" alt="unity logo"  />

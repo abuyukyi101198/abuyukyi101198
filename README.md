@@ -3,7 +3,7 @@
 
 I am a Software Developer at Canonical and a Purdue University graduate, tackling whatever gets thrown my way.
 
-- ⚡ Currently using: `.ts`, `.css`, `.py`, `.dart`, `.cs`
+- ⚡ Currently using: `.ts`, `.css`, `.rs`, `.dart`, `.cs`
 - ⚙️ Working on: `MAAS`
 - 🔭 Checking out: `game development`, `app development`, `physics sims`
 - 💡 Interested in: `philosophy`, `football`, `billiards`, `space` 
@@ -25,6 +25,7 @@ I am a Software Developer at Canonical and a Purdue University graduate, tacklin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="16" width="16" alt="python logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="16" width="16" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="16" width="16" alt="dart logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="16" width="16" alt="rust logo"  />
 </div>
 </div>
 
@@ -36,6 +37,7 @@ I am a Software Developer at Canonical and a Purdue University graduate, tacklin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="16" width="16" alt="vuejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="16" width="16" alt="flutter logo"  />
   <img src="https://cdn.simpleicons.org/electron/47848F" height="16" width="16" alt="electron logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="16" width="16" alt="tauri logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="16" width="16" alt="nodejs logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="16" width="16" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="16" width="16" alt="django logo"  />
@@ -63,6 +65,7 @@ I am a Software Developer at Canonical and a Purdue University graduate, tacklin
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="16" width="16" alt="figma logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="16" width="16" alt="blender logo"  />
   <img src="https://cdn.simpleicons.org/unity/FFFFFF" height="16" width="16" alt="unity logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="16" width="16" alt="godot logo"  />
   <img src="https://prepar3d.com/wp-content/uploads/2023/03/P3D_Logo_v6.png" height="16" width="16" alt="prepar3d logo"  />
 </div>
 </div>
